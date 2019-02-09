@@ -1,2 +1,2 @@
 # php-image-thumbnail-creating-function
-Function to create a thumbnail from image.
+Function to create a thumbnail from an image.
